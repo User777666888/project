@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.abbb7dc7dcc6f295b678ec27f18faba8?rik=qAyrSuqTjzPtSg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-JLU6NjMmo4U%2fUZh8MmlNkGI%2fAAAAAAAABFg%2f35CYcnCBUyo%2fs1600%2f2013-05-17_12.30.50.png&ehk=OPEYryrYQVsG%2bS9zNVQ9R8F8%2bHIV3gE%2f1dAM3SKRBrM%3d&risl=&pid=ImgRaw&r=0);
+    background-size: 100%;
+}
+h1{
+    
+    font-size: 200px;
+    margin-top: 170px;
+    background-color: rgba(0, 0, 0, 0.774);
+    color: aliceblue;
+}
+a{
+    font-size: 80px;
+    width: 900px;
+    display: inline-block;
+    margin: 2px;
+}
+.game{
+    margin-top: 100px;
+}
