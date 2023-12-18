@@ -1,0 +1,38 @@
+body {
+    background-image:url(https://i.ytimg.com/vi/ov600zzX6nw/maxresdefault.jpg);
+    background-size: 100%;
+}
+
+.a {
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    width: 80%;
+    height: 80%;
+    
+    background-color: rgba(0, 0, 0, 0.514);
+}
+h1{
+    color: aliceblue;
+    font-size: 60px;
+}
+a{
+    text-decoration: none;
+    font-size: 100px;
+}
+.yes{
+color: greenyellow;
+background-color: rgba(128, 128, 128, 0.37);
+position: fixed;
+left: 15%;
+margin-top: 12%;
+}
+.no{
+color: red;
+background-color: rgba(128, 128, 128, 0.37);
+position: fixed;
+right: 15%;
+margin-top: 12%;
+padding-left: 4%;
+padding-right: 4%;
+}
